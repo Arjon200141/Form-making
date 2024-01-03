@@ -1,8 +1,14 @@
-h2{
+h1{
     text-align: center;
     font-weight: bolder;
 }
 div{
     text-align: center;
     background-color: aliceblue;
+}
+*{
+    background-image: -webkit-image-set();
+}
+button{
+    text-align: center;
 }
